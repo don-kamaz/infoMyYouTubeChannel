@@ -26,5 +26,6 @@ body {
 }
 
 .text {
+  display: block;
   justify-content: space-between;
 }
